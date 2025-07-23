@@ -1,5 +1,4 @@
 import streamlit as st
-import tensorflow as tf
 from keras.models import load_model
 from keras.preprocessing import image
 from keras.applications.efficientnet_v2 import preprocess_input
